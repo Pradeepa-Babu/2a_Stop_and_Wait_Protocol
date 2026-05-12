@@ -46,10 +46,10 @@ while True:
 ## OUTPUT
 
 #### CLIENT.PY
-<img width="978" height="385" alt="Screenshot 2026-05-12 100553" src="https://github.com/user-attachments/assets/32a7b6ec-c0a5-494c-8883-e92ffc197f52" />
+<img width="951" height="642" alt="Screenshot 2026-05-12 100548" src="https://github.com/user-attachments/assets/4985fed1-ba19-4fe0-bddb-397d19467c15" />
 
 #### SEVER.PY
-<img width="951" height="642" alt="Screenshot 2026-05-12 100548" src="https://github.com/user-attachments/assets/4985fed1-ba19-4fe0-bddb-397d19467c15" />
+<img width="978" height="385" alt="Screenshot 2026-05-12 100553" src="https://github.com/user-attachments/assets/32a7b6ec-c0a5-494c-8883-e92ffc197f52" />
 
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed.
